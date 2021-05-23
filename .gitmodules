@@ -1,0 +1,3 @@
+[submodule "chatApp"]
+	path = chatApp
+	url = https://github.com/akil4n/chatApp
